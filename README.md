@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Dev 🙋🏽‍♂️</h1>
-<h3 align="center">Relentless learner </h3>
+<h3 align="center">Dev-eloper-here</h3>
 
 <p align="center">
-  <img align="right" alt="Coding" width="300" src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/com-video-to-gif-converter-unscreen.gif">
+  <img align="right" alt="Coding" width="300" src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/media/com-video-to-gif-converter-unscreen.gif">
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Projects I’m Proud Of
+### 🚀 Some highlights of my journey so far…
 
 - **DevXcode**  
   A cloud-hosted VS Code server optimized for Android, featuring GitHub integration and AI-powered code suggestions.
@@ -57,7 +57,7 @@
   <img src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/media/codertechnologie-vscodeserver.png"width="80" height="80" />
 </p>
 
-**Currently Learning:** Data Structures & Algorithms (DSA)
+**🌱 Currently Learning:** Data Structures & Algorithms (DSA)
 
 #### Interests
 - Cloud IDEs & mobile optimization  
@@ -76,7 +76,7 @@
 
 ---
 
-### Contact Me
+### Contact me via
 <p align="left">
   
   
