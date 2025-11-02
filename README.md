@@ -1,72 +1,92 @@
-<h1 align="center">Hi 👋, I’m Dev 🙋🏽‍♂️</h1>  
-<h3 align="center">Dev-eloper-here</h3>  
+<h1 align="center">Hi there, I'm Dev 🙋🏽‍♂️</h1>
+<h3 align="center">Relentless learner </h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhybDlsY2hwNW52anZiYXFkeTJkeTQ2eXUydTcxdTFlcGJxYmZubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
+<p align="center">
+  <img align="right" alt="Coding" width="300" src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/com-video-to-gif-converter-unscreen.gif">
+</p>
+
+---
+
+### 👨🏽‍💻 About Me
 
 - 🎯 *Relentless learner*  
-- 🎓 First-year B.Tech student at Delhi University  
+- 🎓 B.Tech student at Faculty of Technology, University of Delhi
 - 💻 Currently building **DevXcode** — a mobile-optimized cloud IDE with AI code completion  
-- 🧩 Passionate about vibe coding, AI/ML, workflow automation, privacy and creating tools that make life smoother for developers  
+- 🧩 Passionate about vibe coding, AI/ML, workflow automation, privacy, and creating tools that make life smoother for developers  
 - 🚀 Exploring cloud platforms, GitHub branding, and AI-powered coding tools  
 
 ---
 
-## 🚀 Projects I’m Proud Of
+### 🚀 Projects I’m Proud Of
 
-- 🔧 **DevXcode**  
+- **DevXcode**  
   A cloud-hosted VS Code server optimized for Android, featuring GitHub integration and AI-powered code suggestions.
 
-- ⚡ **Speed Controller Chrome Extension**  
+- **Speed Controller Chrome Extension**  
   Detects any video running on your screen and lets you control playback speed in real time using shortcut keys. Smooth, flexible, and intuitive.
 
-- 🚫 **Ad Blocker Extension**  
+- **Ad Blocker Extension**  
   Blocks intrusive ads for a cleaner browsing experience.
 
-- 📺 **Pop-Up Video Extension**  
+- **Pop-Up Video Extension**  
   Enables Picture-in-Picture (PiP) mode on Chrome so you can watch YouTube lectures while coding in VS Code.
 
-- ✨ **TypeSensei**  
+- **TypeSensei**  
   Analyzes your typing style to autocorrect and suggest words intelligently — built for productivity and flow.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ My Skills
 
-### Languages  
-- Python  
-- C++  
-- C  
-- HTML & CSS  
+#### Languages
+<p align="left">
+  <img src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/media/python.png"width="80" height="80" />
+  <img src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/media/c-programming.png"width="80" height="80"/>
+  <img src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/media/c%2B%2B.png" width="80" height="80"/>
+  <img src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/media/html.png"width="80" height="80" />
+  <img src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/media/css-3.png"width="80" height="80" />
+</p>
 
-### Frameworks & Tools  
-- VS Code  
-- Git  
-- GitHub  
-- CSS  
-- VS Code Server  
+#### Frameworks & Tools
+<p align="left">
+  
+  
+  <img src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/media/github.png" width="150" height="150"/>
+  <img src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/media/git.png" width="80" height="80" />
+  <img src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/media/vscode.png"width="80" height="80" />
+  <img src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/media/codertechnologie-vscodeserver.png"width="80" height="80" />
+</p>
 
-**Currently Learning**: Data Structures & Algorithms (DSA)  
+**Currently Learning:** Data Structures & Algorithms (DSA)
 
-### Interests  
+#### Interests
 - Cloud IDEs & mobile optimization  
-- Chrome Extension Dev  
+- Chrome Extension Development  
 - GitHub profile customization  
 - AI-powered development  
-- Machine Learning  
-- Neural Network  
+- Machine Learning & Neural Networks  
 - Academic workflow automation  
 
 ---
 
-## 🎨 Featured Projects
+### 🎨 Featured Projects
 
-- **DevXcode**: Cloud-hosted VS Code for Android with GitHub sync and AI code completion  
-- **Scholarship Toolkit**: Automated document organizer for student applications  
+- **DevXcode** – Cloud-hosted VS Code for Android with GitHub sync and AI code completion  
+- **Scholarship Toolkit** – Automated document organizer for student applications  
 
 ---
 
-## 📬 Contact Me
+### Contact Me
+<p align="left">
+  
+  
+  <img src="https://github.com/Dev-eloper-here/Dev-eloper-here/blob/main/media/gmail.png" width="80" height="80" />
+  
+</p>
+
 
 - 📧 Personal: [kairatidev@gmail.com](mailto:kairatidev@gmail.com)  
-- 📧 Work email: [devchaudhary.tech@gmail.com](mailto:devchaudhary.tech@gmail.com)  
-- 📧 College: [dev.25027@ce.du.ac.in](mailto:dev.25027@ce.du.ac.in)  
+- 📧 Work: [devchaudhary.tech@gmail.com](mailto:devchaudhary.tech@gmail.com)  
+- 🎓 College: [dev.25027@ce.du.ac.in](mailto:dev.25027@ce.du.ac.in)
+
+---
