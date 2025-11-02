@@ -1,23 +1,38 @@
-## Hi there 👋 , I am Dev 🙋🏽‍♂️
+## 👋 Hi there, I’m Dev 🙋🏽‍♂️
 
 
-**Dev-eloper-here/Dev-eloper-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 👋 Hi there, I’m Dev
-
+🎯 *Relentless learner* 
 🎓 First-year B.Tech  student at Delhi University  
-💻 Building **DevXcode** — a mobile-optimized cloud IDE with AI code completion  
-📚 Passionate about workflow automation, privacy, and documentation  
+💻 Currently building **DevXcode** — a mobile-optimized cloud IDE with AI code completion  
+🧩 Passionate about vibe coding, AI/ML, workflow automation, privacy and creating tools that make life smoother for developers
 🚀 Exploring cloud platforms, GitHub branding, and AI-powered coding tools
+
 
 ---
 
-## 🛠️ My Skills
+## 🚀 Projects I’m Proud Of
+
+### 🔧 DevXcode
+A cloud-hosted VS Code server optimized for Android, featuring GitHub integration and AI-powered code suggestions.
+
+### ⚡ Speed Controller Chrome Extension
+Detects any video running on your screen and lets you control playback speed in real time using shortcut keys. Smooth, flexible, and intuitive.
+
+### 🚫 Ad Blocker Extension
+Blocks intrusive ads for a cleaner browsing experience.
+
+### 📺 Pop-Up Video Extension
+Enables Picture-in-Picture (PiP) mode on Chrome so you can watch YouTube lectures while coding in VS Code.
+
+### ✨ TypeSensei
+Analyzes your typing style to autocorrect and suggest words intelligently — built for productivity and flow.
+
+---
+
+
+
+
+## 🛠️ Tech Stack & Tools
 
 ### Languages
 - Python
@@ -25,19 +40,30 @@ Here are some ideas to get you started:
 - C
 - HTML & CSS
 
+  
 ### Frameworks & Tools
-- VS Code Server
+- VS Code
 - Git 
 - GitHub
 - CSS
+- VS Code Server
 
-### Interests
+  
+- **Currently Learning**: Data Structures & Algorithms (DSA)
+
+- 
+- ### Interests
 - Cloud IDEs & mobile optimization
+- Chrome Extension Dev
 - GitHub profile customization
 - AI-powered development
+- Machine Learning
+- Neural Network
 - Academic workflow automation
 
+
 ---
+
 
 ## 🎨 Featured Projects
 
@@ -46,10 +72,33 @@ Here are some ideas to get you started:
 
 ---
 
-## 📬 Connect with Me
+## 📬 Contact Me
 
-- 📧 Email: kairatidev@gmail.com  
+- 📧 Personal: [kairatidev@gmail.com](mailto:kairatidev@gmail.com)  
+- 📧 Work email: [devchaudhary.tech@gmail.com](mailto:devchaudhary.tech@gmail.com)  
+- 📧 College: [dev.25027@ce.du.ac.in](mailto:dev.25027@ce.du.ac.in)
 
 ---
+
+## 🎨 Coding Vibes
+
+![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhybDlsY2hwNW52anZiYXFkeTJkeTQ2eXUydTcxdTFlcGJxYmZubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
