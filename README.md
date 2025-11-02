@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 , I am Dev 🙋🏽‍♂️
 
-<!--
+
 **Dev-eloper-here/Dev-eloper-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...# 👋 Hi there, I’m Dev
 
-🎓 First-year B.Tech Physics student at Delhi University  
+🎓 First-year B.Tech  student at Delhi University  
 💻 Building **DevXcode** — a mobile-optimized cloud IDE with AI code completion  
 📚 Passionate about workflow automation, privacy, and documentation  
 🚀 Exploring cloud platforms, GitHub branding, and AI-powered coding tools
@@ -22,15 +22,14 @@ Here are some ideas to get you started:
 ### Languages
 - Python
 - C++
-- JavaScript
+- C
 - HTML & CSS
 
 ### Frameworks & Tools
-- Node.js
-- Express
 - VS Code Server
-- Git & GitHub
-- Tailwind CSS
+- Git 
+- GitHub
+- CSS
 
 ### Interests
 - Cloud IDEs & mobile optimization
@@ -44,21 +43,13 @@ Here are some ideas to get you started:
 
 - **DevXcode**: Cloud-hosted VS Code for Android with GitHub sync and AI code completion  
 - **Scholarship Toolkit**: Automated document organizer for student applications  
-- **GitHub Branding Pack**: Animated GIFs and README templates for developers
 
 ---
 
 ## 📬 Connect with Me
 
-- 📧 Email: yourname@example.com  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: kairatidev@gmail.com  
 
 ---
 
-![DevXcode Banner](https://github.com/your-username/your-repo-name/blob/main/devxcode-banner.gif)
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
